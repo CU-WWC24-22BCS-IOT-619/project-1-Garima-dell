@@ -1,0 +1,3 @@
+C001 JohnDoe 15000 Vehicle 2
+C002 JaneSmith 8000 Health 6
+C003 AliceBrown 12000 Property 3
